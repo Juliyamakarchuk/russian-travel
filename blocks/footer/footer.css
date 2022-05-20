@@ -13,8 +13,7 @@
     .footer{
         flex-direction: column;
         max-width: 186px;
-        height: 310px;
+        min-height: 310px;
         margin: 64px auto 24px 16px;
-        
     }
 }
