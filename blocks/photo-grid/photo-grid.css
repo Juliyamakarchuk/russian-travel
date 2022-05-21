@@ -23,5 +23,6 @@
 @media screen and (max-width: 767px) {
     .photo-grid{
         grid-template-columns: 288px;
+        background-position: center;
     }
 }

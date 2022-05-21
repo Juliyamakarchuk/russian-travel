@@ -5,8 +5,13 @@
     max-width: 456px;
     align-self: flex-end;
 }
+.place__website:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
 @media screen and (max-width: 767px) {
     .place__website{
-        align-self: flex-start;  
+        align-self: flex-start;
+        margin-bottom: 32px;
     }
 }

@@ -2,3 +2,7 @@
     grid-column-start: -1;
     display: flex;
 }
+.header__links:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
