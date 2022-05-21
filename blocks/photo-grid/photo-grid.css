@@ -2,7 +2,6 @@
     display: grid;
     grid-template-columns: repeat(4, auto);
     max-width: 1184px;
-    overflow: hidden;
     margin:auto;
     gap: 16px;
     width: 100%;
