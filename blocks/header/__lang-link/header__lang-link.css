@@ -6,10 +6,16 @@
     font-size: 24px;
     line-height: 28px;
     margin-top: 18px;
+    text-decoration: none;
+    }
+.header__lang-link:hover{
+    opacity: 0.8;
+    cursor: pointer;
     }
 @media screen and (max-width: 767px) {
     .header__lang-link{
         font-size: 18px;
-        line-height: 20px;   
+        line-height: 1.33;   
+        margin: auto;
     }
 }
