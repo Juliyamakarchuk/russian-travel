@@ -15,5 +15,6 @@
     .place__paragraphs{
         max-width: 288px;
         margin-top: 32px;
+        padding: 0 16px;
     }
 }
