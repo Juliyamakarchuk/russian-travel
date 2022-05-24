@@ -18,3 +18,8 @@
         padding: 0 16px;
     }
 }
+@media screen and (max-width: 767px) {
+    .place__paragraphs:last-of-type{
+        margin-top: 0;
+        }
+}
